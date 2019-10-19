@@ -1,0 +1,19 @@
+{
+  "name": "nexfs",
+  "version": "0.0.0",
+  "description": "A collection of helper functions related to handling local files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaidonghai/nexFs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaidonghai/nexFs/issues"
+  },
+  "homepage": "https://github.com/gaidonghai/nexFs#readme"
+}
