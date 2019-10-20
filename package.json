@@ -1,6 +1,6 @@
 {
   "name": "nexfs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of helper functions related to handling local files.",
   "main": "index.js",
   "scripts": {
